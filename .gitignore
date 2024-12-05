@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.filters
+
+# 빌드 아티팩트
+x64/
+*.obj
+*.exe
+*.dll
+*.lib
+*.out
+*.pdb
+
+# Visual Studio 환경 폴더
+Visual Studio 2022/
+Visual Studio 2022Templates/
