@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiHorse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiHorse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AF2BDB-E9EF-4739-A670-4924E251BE54}|jaenniii_horse_run.vcxproj|solutionrelative:jaenniiiMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jaenniiiPlayer.h",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.h",
+              "RelativeDocumentMoniker": "jaenniiiPlayer.h",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.h",
+              "RelativeToolTip": "jaenniiiPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T18:13:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jaenniiiQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.cpp",
+              "RelativeDocumentMoniker": "jaenniiiQueue.cpp",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.cpp",
+              "RelativeToolTip": "jaenniiiQueue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:13:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jaenniiiQueue.h",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.h",
+              "RelativeDocumentMoniker": "jaenniiiQueue.h",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiQueue.h",
+              "RelativeToolTip": "jaenniiiQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T18:14:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jaenniiiHorse.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.cpp",
+              "RelativeDocumentMoniker": "jaenniiiHorse.cpp",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.cpp",
+              "RelativeToolTip": "jaenniiiHorse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:12:49.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jaenniiiHorse.h",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.h",
+              "RelativeDocumentMoniker": "jaenniiiHorse.h",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiHorse.h",
+              "RelativeToolTip": "jaenniiiHorse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T18:13:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jaenniiiPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.cpp",
+              "RelativeDocumentMoniker": "jaenniiiPlayer.cpp",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiPlayer.cpp",
+              "RelativeToolTip": "jaenniiiPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:13:05.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jaenniiiMain.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiMain.cpp",
+              "RelativeDocumentMoniker": "jaenniiiMain.cpp",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jaen\\jaenniii_horse_run\\jaenniiiMain.cpp",
+              "RelativeToolTip": "jaenniiiMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:12:29.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
